@@ -12,7 +12,11 @@ import javax.servlet.ServletContext;
 public class GenerateDB {
 	ServletContext context;
 	HashMap<String, HashMap<String, NoteTree>> mood;
-
+	public static HashMap<String, HashMap<String, NoteTree>> getData(ServletContext context){
+    	String fullPath = context.getRealPath("/DATA");
+    	GenerateDB db=new GenerateDB(context);
+    	return db.getMood();
+    }
 	public GenerateDB(ServletContext context) {
 		HashMap<String, NoteTree> song = null;
 		NoteTree tm=null,tn=null;

@@ -26,7 +26,7 @@ public class TxtReader {
         this.alm = alm;
     }
      public void openFile(File selectedFile) {
-        System.out.println("yoyo");
+      //  System.out.println("yoyo");
         file=selectedFile;
         try {
             //        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
