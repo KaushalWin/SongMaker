@@ -13,6 +13,14 @@ public class NoteTree {
 	    public int getHate() {
 		return hate;
 	}
+	    
+	public ArrayList<NoteTree> getChildren() {
+			return children;
+		}
+
+		public void setChildren(ArrayList<NoteTree> children) {
+			this.children = children;
+		}
 
 	public void setHate(int hate) {
 		this.hate = hate;
@@ -83,9 +91,11 @@ public class NoteTree {
         return root;
 	}
 	public static NoteTree generateNoteTree(ArrayList<Note> n,NoteTree root) {
-        if(root==null) {
+		if(n==null)return null;
+		if(root==null) {
         	return generateNoteTree(n);
         }
+        if(n==null)return null;
         NoteTree t=null;
 		ArrayList<NoteTree> path = new ArrayList<>();
         int k;
@@ -105,9 +115,11 @@ public class NoteTree {
         return root;
 	}
 	public static NoteTree generateLikeTree(ArrayList<Note> n,NoteTree root) {
-        if(root==null) {
+		if(n==null)return null;
+		if(root==null) {
         	root=new NoteTree(null);
         }
+        
         NoteTree t=null;
 		ArrayList<NoteTree> path = new ArrayList<>();
         int k;
@@ -127,7 +139,8 @@ public class NoteTree {
         return root;
 	}
 	public static NoteTree generateHateTree(ArrayList<Note> n,NoteTree root) {
-        if(root==null) {
+		if(n==null)return null;
+		if(root==null) {
         	root=new NoteTree(null);
         }
         NoteTree t=null;

@@ -36,8 +36,10 @@ public class ClassTestUnit extends HttpServlet {
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
+    String nout;
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
+		response.setContentType("text/html");
 		ServletContext context = getServletContext();
 		String fullPath = context.getRealPath("/DATA");
 		PrintWriter out = response.getWriter();
@@ -47,13 +49,26 @@ public class ClassTestUnit extends HttpServlet {
 		HashMap<String, NoteTree> song=null;
 		for(String a:mkey) {
 			song = mood.get(a);
+			out.append("<br/>"+a);
 			for(String b: song.keySet()) {
-				out.append("<br/>"+a+":"+b);
+				NoteTree abcd = song.get(b);
+				out.append("<br/>&nbsp&nbsp&nbsp&nbsp:"+b+":"+abcd);
+				nout="<br/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp";
+				if(abcd!=null) {displayNoteTree(abcd);out.append(nout);}
 			}
 		}
 		
 	}
-
+	private void displayNoteTree(NoteTree root) {
+		if(root.getRoot()!=null)nout+="("+root.getRoot().getFinalIndex()+","+root.getCount()+")_";
+		if(root.getChildren().size()==0) {
+			nout+="<br/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp";
+			return;
+		}
+		for(NoteTree a:root.getChildren()) {
+			displayNoteTree(a);
+		}
+	}
 	/**
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
 	 */
