@@ -1,0 +1,17 @@
+S_U S_U n n D P m m P D m G m G S S S S m G m n D m D n S_U n D S_U S_U m G m D N S_U D n S_U m_U G_U R_U S_U G_U m_U P_U G_U m_U G_U R_U N S_U N N S_U S_U n D S_U S_U 
+N N S_U S_U S_U S_U n D P m P n D P m P n D P m G G S G m P N S_U S_U N S_U S_U D n D G m G m P N N S_U N S_U N S n D N S_U N S_U R_U S_U S_U n D P m P n D P m G 
+S S G G m m g m P G m G D n D P D n D P P S_U N S_U D n D G m P D n D P G m P D m G G m D N S_U N S_U N S_U S_U S_U n D G m P D S_U n D P G m P D m G 
+P N S_U S_U S_U S_U n D P n n D P G m G G N S_U G_U N S_U n P D S_U n D P G m G m G m n D N S_U N S_U N S_U S_U N S_U S_U S_U n D m G m P N S_U G_U S_U P N S_U S_U 
+S_U S_U n n D D m G G m P D S_U N S_U S_U S_U G_U m_U G_U G_U N S_U N N S_U N S_U n D G m D N S_U N S_U S_U N S_U N S_U n D S_U S_U G_U m_U G_U N S_U N S_U S_U N S_U R_U N S_U n D
+S S S G G m m P P D S_U n D m P D m G N N S_U N S_U S_U P P D P D S_U n D m G m P D m G m S S m G m n D N S_U N S_U S_U P N N S_U S_U S_U n D S S S G G m m P P D S_U n D D m P D m G G S S
+S G G m m P D m G m P N N S_U N S_U N S_U N S_U S_U S_U D S_U n D D P G m P D m G N N N S_U S_U S_U N S_U S_U S_U n n D P G m P D G m G S G G m m P D m G m P N N S_U N S_U N S_U N S_U S_U S_U D S_U n D D P G m P D m G 
+G m P N S_U S_U S_U n D P n n D P G m G G m P N S_U S_U S_U S_U n D P S_U n D G m G N S_U N P N S_U R_U N S_U P D S_U S_U n D P G m D m G G m P G m G N_L S S_U n D G m G G m G m D N S_U N S_U N N S_U S_U S_U N S_U n D G G m D N S_U D N S_U S_U S_U G m D N S_U N S_U N N S_U S_U S_U S_U n D G m D N S_U D N S_U S_U S_U P N S_U S_U S_U N S n D m G m P P N N S_U S_U n D G G m D N S_U S_U n D P S_U n D P G m G G m 
+P N S_U S_U S_U n D P D G m G G m P N S_U R_U N S_U n D P D G m G N S_U n P D R_U S_U n D P P D n D G m G G m P P D P G P m G D G m G G m P N S_U S_U G m D N S_U N S_U N S_U S_U S_U n D G m D N S_U S_U N S_U P N S_U S_U S_U n D N N S_U S_U S_U D n D P n D G m G G m 
+P D S_U n D P m P m G m m P S_U P D S_U n D P m P m G m m P m G m G N_L S N N N N S_U S_U P N S_U R_U S_U n D P P D S_U n D P m P m G m m P S_U D n D D n D P m P D m G N N S_U S_U S_U n D m P D m G G_U m_U G_U N S_U S_U P N S_U R_U N S_U n D P D S_U n D P m P m G m m P D S_U 
+P P S_U D S_U n n D P D m m P D S_U n D P D G m G m n D N S_U N N S_U S_U S_U S_U n D G m m m D N S_U N S_U S_U P N S_U R_U N N S_U n D m G m P D P D N S_U N S_U N S_U P N S_U R_U S_U N S_U n D G m 
+S_U N S_U S_U D n P D S_U S_U n D P m P D m G m P D N N S_U S_U D n P D S_U n D D P m G S G m P P N N P N S_U S_U m_U G_U N S_U S_U S_U D n D N N N S_U S_U S_U n D P G m P D P G m G N S_U G_U N S_U S_U n D P G m P D P G m G S S G m P P N N N S_U S_U P N S_U S_U G_U N S_U S_U S_U n D D 
+N N S_U S_U S_U n D m m P D S_U n D P D G m G G N N S_U R_U S_U D S_U n D m m P D S_U n D P D G m G S G G m P N N S_U S n D P m G g G m P N N S_U S_U N N S_U S_U N P m G m G m P N N N N S_U N S_U N S_U R_U R_U S_U n D P P 
+S G G m m G m P D N S_U N S_U S_U S_U n D D N S_U S_U D S_U n D P D D G m S_U n D P m m G m n D N S_U N S_U S_U m n D D S_U S_U n D m G G m P D N S_U S_U S_U N S_U N S_U S_U S_U n D P D N S_U S_U D S_U n D P D G m S_U n D P m G G 
+G S m m G R G m G m P D N S_U N S_U S_U S_U n D N S_U S_U N S_U R_U S_U n D m G m S_U n D m G G m n D N S_U N S_U N S_U P N S_U S_U S_U S_U n D P m G G m P D N S_U N S_U N S_U N S_U N S_U n D P D N S_U S_U D S_U n D P m G m S_U n D m G G 
+
+ 

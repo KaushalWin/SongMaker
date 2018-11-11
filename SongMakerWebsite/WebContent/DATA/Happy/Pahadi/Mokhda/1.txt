@@ -1,0 +1,9 @@
+P m P D D m R m R P P P D m R m P m m S R R S S S_U D S_U R_U D S_U D m R m P D S_U S_U S_U R_U S_U S_U R_U m_U R_U S_U D m R S_U S_U P D m R S S R D S_U P D m R 
+S_U S_U D D m m R S S R D_L S S S r m P D D S_U d S_U R_U d S_U P D m P D S_U S_U S_U S_U D S_U R_U D S_U D m R m P D S_U D S_U D S_U S_U R_U D S_U D m R_U m_U R_U S_U R_U S_U m P D S_U R_U S_U D P m P D S_U R_U D S_U P D 
+P m P P D D m R m R P m P P P D m R m P m S R R S S S_U D S_U R_U D S_U D m R m P S_U D S_U R_U S_U S_U R_U m_U R_U S_U D m R m P m m S_U R R S S S_U D S_U R_U D m R 
+P m P D D m R R R P m P m P D D m R P m P m P D m R R P m P m P D D m R m P m S R S S_U S_U D S_U R_U D S_U D m R m P S_U D S_U S_U S_U R_U S_U S_U R_U m_U R_U R_U S_U D m R m P m S R S S_U S_U D S_U R_U S_U D m R 
+P m P m P D D m R R R P m P m P m P D m R m P m S R S S_U S_U D R_U D S_U D m R m P S_U D S_U S_U R_U S_U S_U R_U m_U R_U S_U D m R m P m m S R R S S_U S_U S_U D R_U S_U D m R 
+R P P P D m P D m m R S D_L S S S R R m P D D D S_U D S_U R_U S_U D P m P D P m R S m m m m P P S_U D S_U S_U S_U S_U D R_U S_U S_U D S_U R_U m_U R_U S_U D P D S_U D P m P D P m R S 
+D D m m P D m m R S D_L S R R m m P P D m P D P P D S_U D R_U S_U D P D m P D P m R S m m m m P P S_U D S_U S_U S_U S_U D D S_U S_U R_U R_U S_U R_U S_U D m P D D m P P m D P m R R S D_L S R m P D D S_U D S_U R_U S_U D P m P 
+P D P m R S R D_L S R P m P D P D m P D S_U R_U S_U D P m R S m m P D S_U D S_U D S_U R_U m_U R_U S_U R_U S_U R_U S_U D S_U D P D P m P m R m R S 
+  
